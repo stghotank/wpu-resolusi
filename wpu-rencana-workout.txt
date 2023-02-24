@@ -3,8 +3,9 @@ RENCANA WORKOUT WPU
 -PUSH UP ARCHER
 -PUSH UP
   = 15
-  ^ 4 SET
+    ^ 1 SET
   = 20
-  ^ 3 SET
+    ^2 SET
 -PULL UP
 -SITT UP
+-JOGING
