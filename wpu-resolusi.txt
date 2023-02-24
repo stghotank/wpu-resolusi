@@ -2,3 +2,4 @@ wpu RESOLUSI
 - konsisten belajar untuk menjadi programer
 - Mengerti tentang python
 - Membuat website
+- bisa ngoding
