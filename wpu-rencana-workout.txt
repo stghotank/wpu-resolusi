@@ -5,6 +5,7 @@ RENCANA WORKOUT WPU
   = 15
     ^ 1 SET
   = 20
+    ^2 SET
 -PULL UP
 -SITT UP
 -JOGING
